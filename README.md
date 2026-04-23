@@ -38,6 +38,8 @@
 
 <br>
 
-📫 **Contato:**
-[kauan.araujo04@email.com](mailto:kauan.araujo04@email.com) •
-https://www.linkedin.com/in/kauan-de-araujo/
+📫 **Contato:** <br>
+[kauan.araujo04@email.com](mailto:kauan.araujo04@email.com) <br>
+<a href="https://www.linkedin.com/in/kauan-de-araujo/" text-decoration="none"> <br>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
