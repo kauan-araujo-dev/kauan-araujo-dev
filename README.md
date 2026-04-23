@@ -39,7 +39,10 @@
 <br>
 
 📫 **Contato:** <br>
-[kauan.araujo04@email.com](mailto:kauan.araujo04@email.com) <br>
-<a href="https://www.linkedin.com/in/kauan-de-araujo/" text-decoration="none"> <br>
+<p>
+  📧 kauan.araujo04@gmail.com
+<p>
+<a href="https://www.linkedin.com/in/kauan-de-araujo/" text-decoration="none">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
