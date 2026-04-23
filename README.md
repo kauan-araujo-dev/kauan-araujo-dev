@@ -1,4 +1,4 @@
-# Olá sou o Kauan
+# Kauan
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&background=0D1117&size=25&center=true&vCenter=true&width=1000&typeSpeed=50&backSpeed=30&pause=1200&lines=Desenvolvedor+Full-Stack;Java;PHP;MySQL" />
