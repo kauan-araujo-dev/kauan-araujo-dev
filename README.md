@@ -28,7 +28,6 @@
 <br>
 
 <p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kauan-araujo-dev&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=tokyonight"/>
 </p>
 
