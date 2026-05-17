@@ -28,7 +28,7 @@
 <br>
 
 <p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=tokyonight"/>
 </p>
 
 <p>
