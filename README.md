@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
+   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -31,9 +32,9 @@
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=tokyonight"/>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=kauan-araujo-dev&theme=tokyonight&hide_border=true" />
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kauan-araujo-dev&theme=tokyonight)
+
 
 <br>
 
