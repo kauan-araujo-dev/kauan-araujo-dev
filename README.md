@@ -28,6 +28,7 @@
 <p align="left">
   <img src="front-end.png" width="150"/>
 </p>
+<img src="divider.svg" width="100%">
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
@@ -36,34 +37,37 @@
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
-
+<br>
 <p align="left">
   <img src="back-end.png" width="150"/>
 </p>
+<img src="divider.svg" width="100%">
 
 <p>
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
-
+<br>
 <p align="left">
   <img src="banco_de_dados.png" width="250"/>
 </p>
+<img src="divider.svg" width="100%">
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
+<br>
 <p align="left">
   <img src="ferramentas.png" width="200"/>
 </p>
+<img src="divider.svg" width="100%">
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
 <br>
-
+<br>
 <p align="left">
   <img src="div.png" width="100%"/>
 </p>
