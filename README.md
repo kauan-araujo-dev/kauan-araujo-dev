@@ -3,7 +3,9 @@
 ⚡ Desenvolvedor Full-Stack em formação. <br>
 ✦ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
-## <span style="color:#5E2CA7">Formação</span>
+<p align="left">
+  <img src="formacao.png" width="200"/>
+</p>
 
 🟣 **Análise e Desenvolvimento de Sistemas**  
 &nbsp;&nbsp;&nbsp;&nbsp;FATEC Zona Leste *(em andamento)*
@@ -15,7 +17,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;SENAC
 <br>
 
-## ◆ Front-end
+<p align="left">
+  <img src="div.png" width="100%"/>
+</p>
+
+<p align="left">
+  <img src="tecnologias.png" width="230"/>
+</p>
+
+<p align="left">
+  <img src="front-end.png" width="150"/>
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
@@ -25,20 +37,26 @@
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
-## ◆ Back-end
+<p align="left">
+  <img src="back-end.png" width="150"/>
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=php" />
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-## ◆ Banco de Dados
+<p align="left">
+  <img src="banco_de_dados.png" width="250"/>
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-## ◆ Ferramentas
+<p align="left">
+  <img src="ferramentas.png" width="200"/>
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
@@ -46,16 +64,21 @@
 
 <br>
 
-<p>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=coffee"/>
+<p align="left">
+  <img src="div.png" width="100%"/>
 </p>
 
+ <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=coffee"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kauan-araujo-dev&theme=gruvbox&background=F4E6D7&stroke=EA9537&ring=5E2CA7&fire=EA9537&currStreakLabel=5E2CA7&sideLabels=18171B&currStreakNum=18171B&sideNums=18171B&dates=7C4E2F&border=EA9537)
 
-<br>
+<p align="left">
+  <img src="div.png" width="100%"/>
+</p>
 
-📫 **Contato:** <br>
+<p align="left">
+  <img src="contato.png" width="180"/>
+</p>
 <p>
   📧 kauan.araujo04@gmail.com
 <p>
