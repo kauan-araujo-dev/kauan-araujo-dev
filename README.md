@@ -4,6 +4,10 @@
 ✦ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 <p align="left">
+  <img src="div.png" width="100%" height="50"/>
+</p>
+
+<p align="left">
   <img src="formacao.png" width="200"/>
 </p>
 
