@@ -37,11 +37,11 @@
 <img src="divider.svg" width="100%">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=html"width="70"/>
+  <img src="https://skillicons.dev/icons?i=css" width="70"/>
+  <img src="https://skillicons.dev/icons?i=js" width="70"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="70"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="70"/>
 </p>
 <br>
 <p align="left">
@@ -50,8 +50,8 @@
 <img src="divider.svg" width="100%">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=php&theme=light" width="70"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=light" width="70"/>
 </p>
 <br>
 <p align="left">
@@ -60,7 +60,7 @@
 <img src="divider.svg" width="100%">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="70"/>
 </p>
 <br>
 <p align="left">
@@ -69,7 +69,7 @@
 <img src="divider.svg" width="100%">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git" width="70"/>
 </p>
 
 <br>
