@@ -18,7 +18,7 @@
 <br>
 
 <p align="left">
-  <img src="div.png" width="100%"/>
+  <img src="div.png" width="100%" height="50"/>
 </p>
 
 <p align="left">
@@ -69,7 +69,7 @@
 <br>
 <br>
 <p align="left">
-  <img src="div.png" width="100%"/>
+  <img src="div.png" width="100%" height="50"/>
 </p>
 
  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kauan-araujo-dev&layout=compact&theme=coffee"/>
@@ -77,7 +77,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=kauan-araujo-dev&theme=gruvbox&background=F4E6D7&stroke=EA9537&ring=5E2CA7&fire=EA9537&currStreakLabel=5E2CA7&sideLabels=18171B&currStreakNum=18171B&sideNums=18171B&dates=7C4E2F&border=EA9537)
 
 <p align="left">
-  <img src="div.png" width="100%"/>
+  <img src="div.png" width="100%" height="50"/>
 </p>
 
 <p align="left">
