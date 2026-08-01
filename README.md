@@ -14,15 +14,12 @@
 </p>
 <img src="divider2.svg" width="100%">
 <br>
+<h3>🟣 Análise e Desenvolvimento de Sistemas - FATEC Zona Leste (em andamento)</h3>
+</p>
 
-🟣 **Análise e Desenvolvimento de Sistemas**  
-&nbsp;&nbsp;&nbsp;&nbsp;FATEC Zona Leste *(em andamento)*
+<h3>🟠 Técnico em Desenvolvimento de Sistemas - ETEC Itaquera</h3>
 
-🟠 **Técnico em Desenvolvimento de Sistemas**  
-&nbsp;&nbsp;&nbsp;&nbsp;ETEC Itaquera
-
-🟣 **Desenvolvedor Full-Stack**  
-&nbsp;&nbsp;&nbsp;&nbsp;SENAC
+<h3>🟣 Desenvolvedor Full-Stack - SENAC</h3>
 <br>
 <br>
 <p align="left">
