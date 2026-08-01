@@ -1,7 +1,7 @@
 <img src="banner.linkedin.png" />
 <br>
-⚡ Desenvolvedor Full-Stack em formação. <br>
-✦ Estudante de **Análise e Desenvolvimento de Sistemas**.
+<h3>⚡Desenvolvedor Full-Stack em formação.</h3>
+<h3>✦  Estudante de **Análise e Desenvolvimento de Sistemas.</h3>
 
 <br>
 <br>
