@@ -12,6 +12,8 @@
 <p align="left">
   <img src="formacao.png" width="200"/>
 </p>
+<img src="divider2.svg" width="100%">
+<br>
 
 🟣 **Análise e Desenvolvimento de Sistemas**  
 &nbsp;&nbsp;&nbsp;&nbsp;FATEC Zona Leste *(em andamento)*
@@ -30,6 +32,7 @@
 <p align="left">
   <img src="tecnologias.png" width="230"/>
 </p>
+<img src="divider2.svg" width="100%">
 <br>
 <p align="left">
   <img src="front-end.png" width="150"/>
@@ -88,6 +91,8 @@
 <p align="left">
   <img src="contato.png" width="180"/>
 </p>
+<img src="divider2.svg" width="100%">
+<br>
 <p>
   📧 kauan.araujo04@gmail.com
 <p>
