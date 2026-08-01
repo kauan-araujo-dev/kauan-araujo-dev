@@ -91,11 +91,9 @@
 </p>
 <img src="divider2.svg" width="100%">
 <br>
-<p>
-  📧 kauan.araujo04@gmail.com
-<p>
+<h3>📧 kauan.araujo04@gmail.com</h3>
+<br>
 <a href="https://www.linkedin.com/in/kauan-de-araujo/" text-decoration="none">
- <img src="https://img.shields.io/badge/LinkedIn-5E2CA7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+ <img src="https://img.shields.io/badge/LinkedIn-5E2CA7?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/>
 </a>
 
