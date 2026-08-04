@@ -52,6 +52,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=php&theme=light" width="60"/>
   <img src="https://skillicons.dev/icons?i=java&theme=light" width="60"/>
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" width="60"/>
 </p>
 <br>
 <p align="left">
